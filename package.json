@@ -1,0 +1,22 @@
+{
+  "name": "selenium-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "jest": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.23.9",
+    "@types/jest": "^29.5.11",
+    "@types/selenium-webdriver": "^4.1.21",
+    "jest": "^29.7.0",
+    "selenium-webdriver": "^4.17.0"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.23.3",
+    "ts-node": "^10.9.2"
+  }
+}
